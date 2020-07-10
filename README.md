@@ -10,5 +10,10 @@
 
 I'm Eder Rodrigo Fleming and I'm a front-end developer based in São Paulo, Brazil.
 
-- 🔭 I currently work as a web developer at @Semantix
-- 🌱 I am currently deepening my studies in JavaScript, ReactRJ, ReactNative, NodeJS and Typescript
+- [x] :computer: I currently work as a web developer at @Semantix
+- [x] :books: I am currently deepening my studies in:
+    - :yellow_heart: JavaScript
+    - :atom_symbol: :computer: ReactRJ
+    - :atom_symbol: :iphone: ReactNative 
+    - :green_circle:  NodeJS 
+    - :new: Typescript
