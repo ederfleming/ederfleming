@@ -14,8 +14,8 @@ And to start the year, this portfolio is being restructured and will soon have n
 
 - [x] :computer: I currently work as a web developer at @Semantix
 - [x] :books: I am deepening my studies in:
-    - (https://xesque.rocketseat.dev/platform/tech/javascript.svg)
-    - :atom_symbol: :computer: ReactJS
+-[![Github Badge](https://xesque.rocketseat.dev/platform/tech/javascript.svg)]
+       - :atom_symbol: :computer: ReactJS
     - :atom_symbol: :iphone: ReactNative 
     - :green_circle:  NodeJS 
     - :new: Typescript
