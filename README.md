@@ -12,9 +12,9 @@ I'm Eder Rodrigo Fleming and I'm a front-end developer based in São Paulo, Braz
 
 And to start the year, this portfolio is being restructured and will soon have new projects!
 
-- :computer: I currently work as a web developer at @Semantix </br>
+:computer: I currently work as a web developer at @Semantix </br>
 
-- :heavy_check_mark: I have experience with:</br></br>
+:heavy_check_mark: I have experience with:</br>
 
 ![HTML5 Badge](https://xesque.rocketseat.dev/platform/tech/html5.svg)
 ![CSS3 Badge](https://xesque.rocketseat.dev/platform/tech/css3.svg)
@@ -22,14 +22,14 @@ And to start the year, this portfolio is being restructured and will soon have n
 ![ReactJS Badge](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)
 ![git Badge](https://xesque.rocketseat.dev/platform/tech/git.svg)</br></br>
 
-- :books: I am deepening my studies in:</br></br>
+:books: I am deepening my studies in:</br>
 
 ![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg)
 ![TypeScript Badge](https://xesque.rocketseat.dev/platform/tech/typescript.svg)
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg)
 ![Redux Badge](https://xesque.rocketseat.dev/platform/tech/redux.svg)</br></br>
 
-- :heavy_plus_sign: And I'm also interested in:</br></br>
+:heavy_plus_sign: And I'm also interested in:</br>
 
 ![Node Badge](https://xesque.rocketseat.dev/platform/tech/node.svg)
 ![Graphql Badge](https://xesque.rocketseat.dev/platform/tech/graphql.svg)
