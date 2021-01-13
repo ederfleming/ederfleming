@@ -10,7 +10,7 @@
 
 I'm Eder Rodrigo Fleming and I'm a front-end developer based in São Paulo, Brazil.
 
-And to start the year, this portfolio is being restructured and will soon have new projects!
+With the coming of this new year, this portfolio is being restructured and will soon have new projects!
 
 :computer: I currently work as a web developer at @Semantix </br>
 
