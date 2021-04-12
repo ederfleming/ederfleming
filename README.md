@@ -10,7 +10,7 @@
 
 I'm Eder Rodrigo Fleming and I'm a front-end developer based in São Paulo, Brazil.
 
-With the coming of this new year, this portfolio is being restructured and will soon have new projects!
+This portfolio is being restructured and will soon have new projects also serving as a study diary containing projects made during improvement courses and exercises carried out on their own!
 
 :computer: Currently working with mobile and web development at @Semantix </br>
 
@@ -24,6 +24,7 @@ With the coming of this new year, this portfolio is being restructured and will 
 
 :books: I am deepening my studies in:</br>
 
+![NextJS Badge](https://xesque.rocketseat.dev/platform/tech/nextjs.svg "NextJS")
 ![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
 ![TypeScript Badge](https://xesque.rocketseat.dev/platform/tech/typescript.svg "Typescript")
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg "Jest")
@@ -33,7 +34,6 @@ With the coming of this new year, this portfolio is being restructured and will 
 
 ![Node Badge](https://xesque.rocketseat.dev/platform/tech/node.svg "NodeJS")
 ![Graphql Badge](https://xesque.rocketseat.dev/platform/tech/graphql.svg "GraphQL")
-![NextJS Badge](https://xesque.rocketseat.dev/platform/tech/nextjs.svg "NextJS")
 ![Gatsby Badge](https://xesque.rocketseat.dev/platform/tech/gatsby.svg "Gatsby")
 ![Vue Badge](https://xesque.rocketseat.dev/platform/tech/vuejs.svg "VueJS")
 ![Flutter Badge](https://xesque.rocketseat.dev/platform/tech/flutter.svg "Flutter")
