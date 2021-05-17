@@ -26,10 +26,10 @@ This portfolio is being restructured and will soon have new projects also servin
 :books: I am deepening my studies in:</br>
 
 ![NextJS Badge](https://xesque.rocketseat.dev/platform/tech/nextjs.svg "NextJS")
-![TestingLibrary Badge](https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg "Testing Library")
-![Storybook Badge](https://d33wubrfki0l68.cloudfront.net/eb4093fae6d1e1d692a391773da8da72852c2988/8a1d0/img/tech/storybook.svg "Storybook")
+<img src="https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg" alt="Testing Library" width="50"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/eb4093fae6d1e1d692a391773da8da72852c2988/8a1d0/img/tech/storybook.svg" alt="Storybook" width="50"/>
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg "Jest")
-![Cypress Badge](https://d33wubrfki0l68.cloudfront.net/381714a1a455c2740b96b8c1832d4911c7838f2d/6dc91/img/tech/cypress.svg "Cypress")
+<img src="https://d33wubrfki0l68.cloudfront.net/381714a1a455c2740b96b8c1832d4911c7838f2d/6dc91/img/tech/cypress.svg" alt="Cypress" width="50"/>
 ![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
 
 :heavy_plus_sign: And I'm also interested in:</br>
