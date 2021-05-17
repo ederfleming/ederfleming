@@ -19,20 +19,21 @@ This portfolio is being restructured and will soon have new projects also servin
 ![HTML5 Badge](https://xesque.rocketseat.dev/platform/tech/html5.svg "HTML")
 ![CSS3 Badge](https://xesque.rocketseat.dev/platform/tech/css3.svg "CSS")
 ![JavaScript Badge](https://xesque.rocketseat.dev/platform/tech/javascript.svg "JavaScript")
+![TypeScript Badge](https://xesque.rocketseat.dev/platform/tech/typescript.svg "Typescript")
 ![ReactJS Badge](https://xesque.rocketseat.dev/platform/tech/reactjs.svg "ReactJS")
 ![git Badge](https://xesque.rocketseat.dev/platform/tech/git.svg "Git")</br></br>
 
 :books: I am deepening my studies in:</br>
 
 ![NextJS Badge](https://xesque.rocketseat.dev/platform/tech/nextjs.svg "NextJS")
-![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
-![TypeScript Badge](https://xesque.rocketseat.dev/platform/tech/typescript.svg "Typescript")
+![TestingLibrary Badge](https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg "Testing Library")
+![Storybook Badge](https://d33wubrfki0l68.cloudfront.net/eb4093fae6d1e1d692a391773da8da72852c2988/8a1d0/img/tech/storybook.svg "Storybook")
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg "Jest")
-![Redux Badge](https://xesque.rocketseat.dev/platform/tech/redux.svg "Redux")</br></br>
+![Cypress Badge](https://d33wubrfki0l68.cloudfront.net/381714a1a455c2740b96b8c1832d4911c7838f2d/6dc91/img/tech/cypress.svg "Cypress")
+![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
 
 :heavy_plus_sign: And I'm also interested in:</br>
 
-![Node Badge](https://xesque.rocketseat.dev/platform/tech/node.svg "NodeJS")
 ![Graphql Badge](https://xesque.rocketseat.dev/platform/tech/graphql.svg "GraphQL")
 ![Gatsby Badge](https://xesque.rocketseat.dev/platform/tech/gatsby.svg "Gatsby")
 ![Vue Badge](https://xesque.rocketseat.dev/platform/tech/vuejs.svg "VueJS")
