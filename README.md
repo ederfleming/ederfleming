@@ -31,12 +31,7 @@ This portfolio is being restructured and will soon have new projects also servin
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg "Jest")
 <img src="https://d33wubrfki0l68.cloudfront.net/381714a1a455c2740b96b8c1832d4911c7838f2d/6dc91/img/tech/cypress.svg" alt="Cypress" width="50"/>
 ![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
-
-:heavy_plus_sign: And I'm also interested in:</br>
-
 ![Graphql Badge](https://xesque.rocketseat.dev/platform/tech/graphql.svg "GraphQL")
-![Gatsby Badge](https://xesque.rocketseat.dev/platform/tech/gatsby.svg "Gatsby")
-![Vue Badge](https://xesque.rocketseat.dev/platform/tech/vuejs.svg "VueJS")
-![Flutter Badge](https://xesque.rocketseat.dev/platform/tech/flutter.svg "Flutter")
+
 
 
