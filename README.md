@@ -21,6 +21,7 @@ This portfolio is being restructured and will soon have new projects also servin
 ![JavaScript Badge](https://xesque.rocketseat.dev/platform/tech/javascript.svg "JavaScript")
 ![TypeScript Badge](https://xesque.rocketseat.dev/platform/tech/typescript.svg "Typescript")
 ![ReactJS Badge](https://xesque.rocketseat.dev/platform/tech/reactjs.svg "ReactJS")
+![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
 ![git Badge](https://xesque.rocketseat.dev/platform/tech/git.svg "Git")</br></br>
 
 :books: I am deepening my studies in:</br>
@@ -30,7 +31,6 @@ This portfolio is being restructured and will soon have new projects also servin
 <img src="https://d33wubrfki0l68.cloudfront.net/eb4093fae6d1e1d692a391773da8da72852c2988/8a1d0/img/tech/storybook.svg" alt="Storybook" width="50"/>
 ![Jest Badge](https://xesque.rocketseat.dev/platform/tech/jest.svg "Jest")
 <img src="https://d33wubrfki0l68.cloudfront.net/381714a1a455c2740b96b8c1832d4911c7838f2d/6dc91/img/tech/cypress.svg" alt="Cypress" width="50"/>
-![ReactNative Badge](https://xesque.rocketseat.dev/platform/tech/react-native.svg "React Native")
 ![Graphql Badge](https://xesque.rocketseat.dev/platform/tech/graphql.svg "GraphQL")
 
 
