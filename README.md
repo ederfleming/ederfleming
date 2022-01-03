@@ -12,7 +12,7 @@ I'm Eder Rodrigo Fleming and I'm a front-end developer based in São Paulo, Braz
 
 This portfolio is being restructured and will soon have new projects also serving as a study diary containing projects made during improvement courses and exercises carried out on their own!
 
-:computer: Currently working with mobile and web development at @Semantix </br>
+:computer: Currently working with mobile and web development at @Cyrela Brazil Realty </br>
 
 :heavy_check_mark: I have experience with:</br>
 
